@@ -3,3 +3,9 @@ body{
     background-size: cover;
     font-family: 'Montserrat', sans-serif;
   }
+#p-text{
+    margin: 30px 30px 30px 10px;
+    color: #0b538f;
+    font-size: 27px;
+    font-family: Montserrat;
+  }
