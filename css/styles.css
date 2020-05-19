@@ -8,4 +8,11 @@ body{
     color: #0b538f;
     font-size: 27px;
     font-family: Montserrat;
+    text-align: center;
   }
+  .p-text{
+    font-family: Jost;
+    font-size: 17px;
+
+  }
+
