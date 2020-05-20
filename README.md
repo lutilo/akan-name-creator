@@ -2,7 +2,7 @@
 Akan Name checker
 
 # Authors
-- [Joseph Lulito]
+- [Joseph Lulito] [https://github.com/lutilo]
 # Description of project 
  A web application that can generate Akan names by keying in your date, month and year of birth. 
 # Project setup instructions
